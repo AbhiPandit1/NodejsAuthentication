@@ -1,6 +1,6 @@
 # NodejsAuthentication
-i have used Nodejs for the backend part
-JWT token has been used for delivering cooking
+I have used Nodejs for the backend part
+
 
 Password hashing has been done using Bcrypt
 
